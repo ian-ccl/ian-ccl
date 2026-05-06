@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola!
 
-<!--
-**ian-ccl/ian-ccl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Migración
 
-Here are some ideas to get you started:
+cuenta anterior: [@ian-and-code](https://github.com/ian-and-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esa cuenta ya casi no tiene actividad.
+
+Todo lo nuevo está acá -> [@ian-ccl](https://github.com/ian-ccl)
+
+## Lenguajes:
+
+### alto nivel
+
+* Python (3.x)
+* TypeScript/JavaScript (ES2025)
+* Java (25, básico)
+* Bash (5)
+* CSS (2025)
+
+### bajo nivel
+
+* C++ (23 + GNU extensions) 
+* C (11 + GNU extensions)
+* Zig (0.16)
+* Rust (1.89)
+* Nim (2.2)
+
+---
+
+## Uso activo
+
+* C++
+* C
+* Zig
+
