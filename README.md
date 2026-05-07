@@ -8,6 +8,9 @@ Esa cuenta ya casi no tiene actividad.
 
 Todo lo nuevo está acá -> [@ian-ccl](https://github.com/ian-ccl)
 
+---
+---
+
 ## Lenguajes:
 
 ### alto nivel
@@ -17,6 +20,7 @@ Todo lo nuevo está acá -> [@ian-ccl](https://github.com/ian-ccl)
 * Java (25, básico)
 * Bash (5)
 * CSS (2025)
+* HTML (5)
 
 ### bajo nivel
 
