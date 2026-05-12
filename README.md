@@ -24,8 +24,8 @@ Todo lo nuevo está acá -> [@ian-ccl](https://github.com/ian-ccl)
 
 ### bajo nivel
 
-* C++ (23 + GNU extensions) 
-* C (11 + GNU extensions)
+* C++ (23) 
+* C (11)
 * Zig (0.16)
 * Rust (1.89)
 * Nim (2.2)
